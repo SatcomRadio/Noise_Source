@@ -502,7 +502,7 @@
 		(layers "B.Cu" "B.Paste" "B.Mask")
 		(uuid "12d96aed-45ce-490e-8194-62b7dc467432")
 	)
-	(model "${KICAD8_3DMODEL_DIR}/Connector_Coaxial.3dshapes/SMA_Samtec_SMA-J-P-X-ST-EM1_EdgeMount.wrl"
+	(model "${KIPRJMOD}/3d/SMA.step"
 		(offset
 			(xyz 0 0 0)
 		)
@@ -510,7 +510,7 @@
 			(xyz 1 1 1)
 		)
 		(rotate
-			(xyz 0 0 0)
+			(xyz 90 180 180)
 		)
 	)
 )
