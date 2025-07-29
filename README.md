@@ -1,8 +1,8 @@
 # Noise source board
 
-## Warning! This board is still a work in progress!
-
 This repo consists of a board for making a noise source. 
+
+## Warning! This board is still a work in progress!
 
 <img src="./img/render.png" alt="render" width="600"/>
 
