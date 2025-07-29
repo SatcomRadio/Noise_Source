@@ -4,13 +4,13 @@
 
 This repo consists of a board for making a noise source. 
 
-<img src="./img/render.jpg" alt="render" width="600"/>
+<img src="./img/render.png" alt="render" width="600"/>
 
 It's based on the one made by [Changpuak](https://www.changpuak.ch/electronics/Noise-Source-with-2xGVA82-15dB.php).
 
 It's adapted to work in a enclosure like [this one](https://www.aliexpress.com/item/1005001849603652.html) of size 92x38x31mm to store it.
 
-<img src="./img/box.jpg" alt="box" width="400"/>
+<img src="./img/box.jpg" alt="box" width="300"/>
 
 ------------------------
 
@@ -34,7 +34,7 @@ It's adapted to work in a enclosure like [this one](https://www.aliexpress.com/i
 
 Schema:
 
-<img src="./img/schema.jpg" alt="schema" width="600"/>
+<img src="./img/schema.png" alt="schema" width="600"/>
 
 ------------------------
 
