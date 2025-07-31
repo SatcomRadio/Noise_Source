@@ -16,7 +16,7 @@
 			)
 		)
 	)
-	(property "Value" ""
+	(property "Value" "Val**"
 		(at 0 -4.75 0)
 		(layer "F.SilkS")
 		(hide yes)
@@ -224,7 +224,7 @@
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "148ba9fd-e01c-431e-92f5-85e2a520c8df")
 	)
-	(model "${KIPRJMOD}/3d/PAT-3+.STEP"
+	(model "${KIPRJMOD}/../3d/PAT-3+.STEP"
 		(offset
 			(xyz 0 0 0)
 		)

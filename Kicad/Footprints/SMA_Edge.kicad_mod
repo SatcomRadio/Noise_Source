@@ -502,7 +502,7 @@
 		(layers "B.Cu" "B.Paste" "B.Mask")
 		(uuid "12d96aed-45ce-490e-8194-62b7dc467432")
 	)
-	(model "${KIPRJMOD}/3d/SMA.step"
+	(model "${KIPRJMOD}/../3d/SMA.step"
 		(offset
 			(xyz 0 0 0)
 		)

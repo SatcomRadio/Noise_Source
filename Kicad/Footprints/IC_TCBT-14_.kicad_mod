@@ -261,6 +261,30 @@
 		(layers "F.Cu" "F.Paste")
 		(uuid "cd814ca9-6821-4a57-a965-d33eb39964da")
 	)
+	(pad "5" thru_hole circle
+		(at -2.1336 0)
+		(size 0.44 0.44)
+		(drill 0.33)
+		(layers "*.Cu")
+		(remove_unused_layers no)
+		(uuid "87dc88db-ac91-48dc-9c28-033436857af2")
+	)
+	(pad "5" thru_hole circle
+		(at -1.0668 0)
+		(size 0.44 0.44)
+		(drill 0.33)
+		(layers "*.Cu")
+		(remove_unused_layers no)
+		(uuid "dd3e84b5-b12b-46c9-a513-9f754340f7cc")
+	)
+	(pad "5" thru_hole circle
+		(at 0 -1.0668)
+		(size 0.44 0.44)
+		(drill 0.33)
+		(layers "*.Cu")
+		(remove_unused_layers no)
+		(uuid "52a35811-29e2-4bd3-8e52-59e77a1d675d")
+	)
 	(pad "5" smd custom
 		(at 0 0)
 		(size 0.1 0.1)
@@ -281,7 +305,7 @@
 		)
 		(uuid "233230e7-1136-49c0-9481-e2b289c791eb")
 	)
-	(pad "6" thru_hole circle
+	(pad "5" thru_hole circle
 		(at 0 0)
 		(size 0.44 0.44)
 		(drill 0.33)
@@ -289,15 +313,7 @@
 		(remove_unused_layers no)
 		(uuid "9c278b0b-30ab-4571-ad3d-a1afb0cae281")
 	)
-	(pad "7" thru_hole circle
-		(at 0 -1.0668)
-		(size 0.44 0.44)
-		(drill 0.33)
-		(layers "*.Cu")
-		(remove_unused_layers no)
-		(uuid "52a35811-29e2-4bd3-8e52-59e77a1d675d")
-	)
-	(pad "8" thru_hole circle
+	(pad "5" thru_hole circle
 		(at 0 1.0668)
 		(size 0.44 0.44)
 		(drill 0.33)
@@ -305,23 +321,7 @@
 		(remove_unused_layers no)
 		(uuid "2c909240-1895-41bd-ac2e-2c7e8a18b5d0")
 	)
-	(pad "9" thru_hole circle
-		(at -1.0668 0)
-		(size 0.44 0.44)
-		(drill 0.33)
-		(layers "*.Cu")
-		(remove_unused_layers no)
-		(uuid "dd3e84b5-b12b-46c9-a513-9f754340f7cc")
-	)
-	(pad "10" thru_hole circle
-		(at -2.1336 0)
-		(size 0.44 0.44)
-		(drill 0.33)
-		(layers "*.Cu")
-		(remove_unused_layers no)
-		(uuid "87dc88db-ac91-48dc-9c28-033436857af2")
-	)
-	(model "${KIPRJMOD}/3d/TCBT-14_.step"
+	(model "${KIPRJMOD}/../3d/TCBT-14_.step"
 		(offset
 			(xyz 0 0 0)
 		)

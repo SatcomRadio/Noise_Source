@@ -1,5 +1,0 @@
-(sym_lib_table
-  (version 7)
-  (lib (name "PAT-3+")(type "KiCad")(uri "${KIPRJMOD}/Symbols/PAT-3+.kicad_sym")(options "")(descr ""))
-  (lib (name "TCBT-14_")(type "KiCad")(uri "${KIPRJMOD}/Symbols/TCBT-14_.kicad_sym")(options "")(descr ""))
-)
